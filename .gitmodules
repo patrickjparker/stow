@@ -1,0 +1,18 @@
+[submodule "tmux/.tmux/plugins/tpm"]
+	path = tmux/.tmux/plugins/tpm
+	url = https://github.com/tmux-plugins/tpm
+[submodule "tmux/.tmux/plugins/vim-tmux-navigtor"]
+	path = tmux/.tmux/plugins/vim-tmux-navigtor
+	url = https://github.com/christoomey/vim-tmux-navigator
+[submodule "tmux/.tmux/plugins/tmux/.tmux/plugins/vim-tmux-navigator"]
+	path = tmux/.tmux/plugins/tmux/.tmux/plugins/vim-tmux-navigator
+	url = https://github.com/christoomey/vim-tmux-navigator
+[submodule "tmux/.tmux/plugins/tmux/.tmux/plugins/tpm"]
+	path = tmux/.tmux/plugins/tmux/.tmux/plugins/tpm
+	url = https://github.com/tmux-plugins/tpm
+[submodule "tmux/.tmux/plugins/tmux-power"]
+	path = tmux/.tmux/plugins/tmux-power
+	url = https://github.com/patrickjparker/tmux-power
+[submodule "tmux/.tmux/plugins/vim-tmux-navigator"]
+	path = tmux/.tmux/plugins/vim-tmux-navigator
+	url = https://github.com/christoomey/vim-tmux-navigator
